@@ -1,2 +1,4 @@
 # hello-world
-A time-honored tradition of computer science
+Hello everyone!
+
+I am Yukai, who has a dream to become a data scientist!
